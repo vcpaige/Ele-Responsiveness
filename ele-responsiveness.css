@@ -1,0 +1,10 @@
+@media (max-width: 1500px) {
+	.elementor-section.elementor-top-section:not(.elementor-section-full_width) > .elementor-container, .e-con .e-con-inner {
+		padding-right: 3%;
+		padding-left: 3%;
+	}
+	
+	.e-con .e-con-inner .e-con-inner {
+	    padding: inherit;
+	}
+}
